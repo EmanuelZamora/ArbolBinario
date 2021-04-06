@@ -1,0 +1,16 @@
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\bin\Debug\ArbolesB.exe.config
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\bin\Debug\ArbolesB.exe
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\bin\Debug\ArbolesB.pdb
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\obj\Debug\ArbolesB.csprojAssemblyReference.cache
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\obj\Debug\ArbolesB.Form1.resources
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\obj\Debug\ArbolesB.Properties.Resources.resources
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\obj\Debug\ArbolesB.csproj.GenerateResource.cache
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\obj\Debug\ArbolesB.exe
+C:\Users\Allan\Desktop\UMG-CUARENTENA\PROGRAMACIÓN lll\ArbolesB\obj\Debug\ArbolesB.pdb
+C:\Users\emanuel\Desktop\TareasDesa_ArbolesB-c4c7fe9e1db42d9fb1237d148c51a834bc9123c0\ArbolesB\obj\Debug\ArbolesB.csprojAssemblyReference.cache
+C:\Users\emanuel\Desktop\TareasDesa_ArbolesB-c4c7fe9e1db42d9fb1237d148c51a834bc9123c0\ArbolesB\obj\Debug\ArbolesB.Form1.resources
+C:\Users\emanuel\Desktop\TareasDesa_ArbolesB-c4c7fe9e1db42d9fb1237d148c51a834bc9123c0\ArbolesB\obj\Debug\ArbolesB.Properties.Resources.resources
+C:\Users\emanuel\Desktop\TareasDesa_ArbolesB-c4c7fe9e1db42d9fb1237d148c51a834bc9123c0\ArbolesB\obj\Debug\ArbolesB.csproj.GenerateResource.cache
+C:\Users\emanuel\Desktop\TareasDesa_ArbolesB-c4c7fe9e1db42d9fb1237d148c51a834bc9123c0\ArbolesB\obj\Debug\ArbolesB.csproj.CoreCompileInputs.cache
+C:\Users\emanuel\Desktop\TareasDesa_ArbolesB-c4c7fe9e1db42d9fb1237d148c51a834bc9123c0\ArbolesB\obj\Debug\ArbolesB.exe
+C:\Users\emanuel\Desktop\TareasDesa_ArbolesB-c4c7fe9e1db42d9fb1237d148c51a834bc9123c0\ArbolesB\obj\Debug\ArbolesB.pdb
